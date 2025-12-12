@@ -6,8 +6,8 @@ Hei! Welcome to my SQL learning journey where I'm solving LeetCode database prob
 
 ### Solved Problems:
 
-| # | Problem | Difficulty | Topics Covered | Date Solved |
-|---|---------|------------|----------------|-------------|
+| # | Problem | Difficulty | Topics Covered | 
+|---|---------|------------|----------------|
 | 1 | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | `CROSS JOIN`, `LEFT JOIN`, `GROUP BY`, `COALESCE/CASE`, Aggregation 
 | 2 | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | `LEFT JOIN`, Basic Joins 
 | 3 | [1407. Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | `LEFT JOIN`, `GROUP BY`, `ORDER BY`, `COALESCE/IFNULL`, Aggregation 

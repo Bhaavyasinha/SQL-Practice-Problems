@@ -6,23 +6,27 @@ Hei! Welcome to my SQL learning journey where I'm solving LeetCode database prob
 
 ### Solved Problems:
 
-| Problem | Topics Covered |
-|---------|----------------|
-| [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | JOIN, Aggregation, ROUND, NULL Handling |
-| [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | CASE, Aggregation, GROUP BY, ROUND |
-| [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | GROUP BY, HAVING, COUNT |
-| [Swap Salary](https://leetcode.com/problems/swap-salary/) | UPDATE, CASE |
-| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | WHERE, MOD, ORDER BY |
-| [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | GROUP BY, HAVING, MAX, Subquery |
-| [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | CASE, Conditional Logic |
-| [Classes With at Least 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | GROUP BY, HAVING, COUNT |
-| [Big Countries](https://leetcode.com/problems/big-countries/) | WHERE, OR Conditions |
-| [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | GROUP BY, ORDER BY, LIMIT |
-| [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | WHERE, NULL Conditions |
-| [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | LEFT JOIN, NULL Handling |
-| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | GROUP BY, HAVING, COUNT |
-| [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | LEFT JOIN, NULL, WHERE |
-| [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | SELF JOIN, Comparison |
-| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | LEFT JOIN, NULL Handling |
+| # | Problem | Difficulty | Topics Covered | Date Solved |
+|---|---------|------------|----------------|-------------|
+| 1 | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | `CROSS JOIN`, `LEFT JOIN`, `GROUP BY`, `COALESCE/CASE`, Aggregation | 2024 |
+| 2 | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | `LEFT JOIN`, Basic Joins | 2024 |
+| 3 | [1407. Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | `LEFT JOIN`, `GROUP BY`, `ORDER BY`, `COALESCE/IFNULL`, Aggregation | 2024 |
+| 4 | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | `GROUP BY`, `GROUP_CONCAT`, `COUNT(DISTINCT)`, `ORDER BY`, String Aggregation | 2024 |
+| 5 | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | `JOIN`, Aggregation, `ROUND`, NULL Handling | 2024 |
+| 6 | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | `CASE`, Aggregation, `GROUP BY`, `ROUND` | 2024 |
+| 7 | [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | `GROUP BY`, `HAVING`, `COUNT` | 2024 |
+| 8 | [627. Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy | `UPDATE`, `CASE` | 2024 |
+| 9 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | `WHERE`, `MOD`, `ORDER BY` | 2024 |
+| 10 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | `GROUP BY`, `HAVING`, `MAX`, Subquery | 2024 |
+| 11 | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | `CASE`, Conditional Logic | 2024 |
+| 12 | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | `GROUP BY`, `HAVING`, `COUNT` | 2024 |
+| 13 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | Easy | `WHERE`, OR Conditions | 2024 |
+| 14 | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | `GROUP BY`, `ORDER BY`, `LIMIT` | 2024 |
+| 15 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | `WHERE`, NULL Conditions | 2024 |
+| 16 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | `LEFT JOIN`, NULL Handling | 2024 |
+| 17 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | `GROUP BY`, `HAVING`, `COUNT` | 2024 |
+| 18 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | `LEFT JOIN`, NULL, `WHERE` | 2024 |
+| 19 | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | SELF JOIN, Comparison | 2024 |
+| 20 | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | `LEFT JOIN`, NULL Handling | 2024 |
 
-**Total Solved: 16 problems**  
+**Total Solved: 20 problems** 
